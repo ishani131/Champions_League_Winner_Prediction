@@ -9,4 +9,4 @@ Make predictions about who will win a match using scikit-learn.
 Measure error and improve our predictions.
 
 <h2>Data</h2>
-We'll be scraping [FBref]([https://fbref.com/en/](https://fbref.com/en/comps/8/Champions-League-Stats)) to get our data in the first part of this project
+We'll be scraping [FBref](https://fbref.com/en/comps/8/Champions-League-Stats) to get our data in the first part of this project
